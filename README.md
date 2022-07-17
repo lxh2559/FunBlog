@@ -1,4 +1,4 @@
-# funblog
+# FunBlog
 
 ## Project setup
 ```
