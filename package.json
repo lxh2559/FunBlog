@@ -9,7 +9,15 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "element-plus": "^2.2.9",
+    "github-markdown-css": "^5.1.0",
+    "require-context": "^1.1.0",
+    "unplugin-auto-import": "^0.9.3",
+    "unplugin-vue-components": "^0.21.1",
+    "vue": "^3.2.13",
+    "vue-loader": "^17.0.0",
+    "vue-markdown-loader": "^2.5.0",
+    "vue-template-compiler": "^2.7.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

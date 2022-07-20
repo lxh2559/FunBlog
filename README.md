@@ -1,5 +1,7 @@
 # FunBlog
 
+## 博客根目录为./static/blog
+
 ## Project setup
 ```
 npm install
